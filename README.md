@@ -4,6 +4,10 @@
 
 The room focuses on common vulnerabilities within modern web applications, especially those built using popular web frameworks. Here’s a step-by-step breakdown of the topics and objectives covered.
 
+You can download the resources from the TryHackMe room at this link https://tryhackme.com/jr/crbctf2024 , complete with an automatic script installer to handle dependencies for you. Be sure to check it out!
+To join the room, simply head over to your My Rooms page on TryHackMe and enter the code crbctf2024.
+
+
 #### **1. Session Modification:**
 
 **Concept:**  
